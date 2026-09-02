@@ -1,12 +1,13 @@
 ---
-title: 글 제목
-date: 2026-09-02
+title: "{{title}}"
+date: "{{date:YYYY-MM-DD}}"
+description: 글의 핵심 내용을 한 줄로 작성합니다.
 tags:
   - security
 draft: true
 ---
 
-# 글 제목
+# {{title}}
 
 ## 개요
 
