@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="680" viewBox="0 0 1200 680" role="img" aria-labelledby="title desc">
+  <title id="title">Burp Suite 요청 화면 예시</title>
+  <desc id="desc">로컬 로그인 API의 HTTP 요청을 보여주는 문서용 모의 캡처</desc>
+  <rect width="1200" height="680" fill="#202124"/>
+  <rect x="0" y="0" width="1200" height="58" fill="#e96b2c"/>
+  <text x="28" y="38" fill="#ffffff" font-family="Arial, sans-serif" font-size="24" font-weight="700">Burp Suite · Proxy · HTTP history</text>
+  <rect x="24" y="82" width="1152" height="50" rx="5" fill="#303134" stroke="#5f6368"/>
+  <text x="44" y="114" fill="#f1f3f4" font-family="Arial, sans-serif" font-size="20">POST   /api/login   127.0.0.1:3000   401</text>
+  <rect x="24" y="154" width="1152" height="494" rx="5" fill="#111315" stroke="#5f6368"/>
+  <text x="48" y="194" fill="#8ab4f8" font-family="monospace" font-size="20">POST /api/login HTTP/1.1</text>
+  <text x="48" y="228" fill="#e8eaed" font-family="monospace" font-size="20">Host: 127.0.0.1:3000</text>
+  <text x="48" y="262" fill="#e8eaed" font-family="monospace" font-size="20">Content-Type: application/json</text>
+  <text x="48" y="330" fill="#f28b82" font-family="monospace" font-size="20">{&quot;username&quot;:&quot;test&quot;,&quot;password&quot;:&quot;test1234&quot;}</text>
+  <text x="48" y="610" fill="#9aa0a6" font-family="Arial, sans-serif" font-size="18">문서 레이아웃 확인을 위한 모의 캡처 · 실제 대상 정보 없음</text>
+</svg>
