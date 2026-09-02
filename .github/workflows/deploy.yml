@@ -1,3 +1,4 @@
+# Builds the Quartz site and publishes the generated public directory.
 name: Deploy to GitHub Pages
 
 on:
