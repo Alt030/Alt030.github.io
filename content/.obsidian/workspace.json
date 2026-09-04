@@ -1,0 +1,211 @@
+{
+  "main": {
+    "id": "628eba8bbba39c46",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea8ddf6fb119b136",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "67f1d47a33983c27",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "posts/web-security/sql-injection-01-where-clause.md.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "sql-injection-01-where-clause.md"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "88d9cc17a8f9a149",
+    "type": "split",
+    "children": [
+      {
+        "id": "c3fa9a7cdaa13fa5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "52591ce711f8d0b0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "파일 탐색기"
+            }
+          },
+          {
+            "id": "738328f213324dcc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "검색"
+            }
+          },
+          {
+            "id": "be0884f396fc1758",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-bookmark",
+              "title": "북마크"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "right": {
+    "id": "b756e8fe8aaf2671",
+    "type": "split",
+    "children": [
+      {
+        "id": "82f1b5bf324c68e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e7c8e665d00bf2a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "posts/web-security/sql-injection-01-where-clause.md.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "백링크"
+            }
+          },
+          {
+            "id": "de7c9a71f7623933",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "posts/web-security/sql-injection-01-where-clause.md.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "나가는 링크"
+            }
+          },
+          {
+            "id": "8dd54d10f7484d5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "태그"
+            }
+          },
+          {
+            "id": "f2d730e5da5d0f52",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "모든 속성"
+            }
+          },
+          {
+            "id": "43ccdb1d04f1fc26",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "posts/web-security/sql-injection-01-where-clause.md.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "개요"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:빠른 전환기 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 일일 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "bases:새 베이스 생성하기": false
+    }
+  },
+  "active": "67f1d47a33983c27",
+  "lastOpenFiles": [
+    "assets/Pasted image 20260902165006.png",
+    "posts/web-security/sql-injection-01-where-clause.md.md",
+    "assets/Pasted image 20260902174049.png",
+    "assets/Pasted image 20260902171519.png",
+    "assets/Pasted image 20260902165837.png",
+    "assets/Pasted image 20260902164945.png",
+    "assets/Pasted image 20260902164433.png",
+    "assets/Pasted image 20260902164224.png",
+    "posts/web-security/index.md",
+    "posts/web-security/sql-injection-lab.md",
+    "posts/index.md",
+    "posts/system-security/index.md",
+    "posts/study/index.md",
+    "posts/mobile-security/index.md",
+    "posts/browser-security/index.md",
+    "posts/study/template-test.md"
+  ]
+}
