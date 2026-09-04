@@ -4,8 +4,8 @@ title: Web Security
 
 # Web Security
 
-웹 애플리케이션과 API 취약점 분석 및 실습 기록을 정리합니다.
+웹 애플리케이션과 API 취약점 분석 및 실습 기록정리
 
 ## 글 목록
 
-아직 게시된 글이 없습니다.
+- [SQL Injection #1 - WHERE 절에서 발생하는 SQL Injection](./sql-injection-01-where-clause.md)
