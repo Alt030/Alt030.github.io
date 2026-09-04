@@ -4,4 +4,4 @@ title: System Security
 
 # System Security
 
-운영체제, 서버 및 시스템 취약점 학습 내용을 정리합니다.
+운영체제, 서버 및 시스템 취약점 학습 기록정리
