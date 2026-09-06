@@ -2,7 +2,7 @@
 title: Posts
 ---
 
-보안 분야별 학습 내용과 실습 기록을 정리합니다.
+보안 분야별 학습 내용 및 실습 기록정리
 
 - [[web-security/index|Web Security]]
 - [[mobile-security/index|Mobile Security]]
