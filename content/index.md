@@ -1,21 +1,20 @@
 ---
-title: Home
+title: Security Notes
 ---
 
-# Security Notes
+보안을 공부하면서 배운 내용과 실습한 내용을 정리합니다.
 
-정보보안과 모의해킹을 공부하며 배운 내용과 실습 과정을 기록합니다.
+## 최근 글
 
-## 바로가기
+<div class="post-summary">
 
-- [[posts/index|Posts]] — 분야별 보안 학습 기록
-- [[projects/index|Projects]] — 프로젝트와 실습 결과
-- [[about|About]] — 블로그와 작성자 소개
+### [[posts/web-security/sql-injection-01-where-clause|SQL Injection #1 - WHERE 절에서 발생하는 SQL Injection]]
 
-## 주요 분야
+<span class="post-date">2026.09.02 · Web Security</span>
 
-- [[posts/web-security/index|Web Security]]
-- [[posts/mobile-security/index|Mobile Security]]
-- [[posts/system-security/index|System Security]]
-- [[posts/browser-security/index|Browser Security]]
-- [[posts/study/index|Study]]
+
+</div>
+
+---
+
+[[posts/index|전체 글]] · [[projects/index|프로젝트]] · [[about|소개]]

@@ -2,8 +2,6 @@
 title: Posts
 ---
 
-# Posts
-
 보안 분야별 학습 내용과 실습 기록을 정리합니다.
 
 - [[web-security/index|Web Security]]

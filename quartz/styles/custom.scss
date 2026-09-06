@@ -1,3 +1,98 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+body {
+  font-family: var(--bodyFont), "Malgun Gothic", sans-serif;
+  -webkit-font-smoothing: antialiased;
+}
+
+.page > #quartz-body {
+  @media all and ($desktop) {
+    grid-template-columns: 260px minmax(0, 1fr) 240px;
+  }
+  @media all and ($tablet) {
+    grid-template-columns: 240px minmax(0, 1fr);
+  }
+  .sidebar {
+    padding-top: 4rem;
+  }
+  .page-header {
+    margin-top: 4rem;
+  }
+}
+
+article {
+  p,
+  li {
+    line-height: 1.85;
+  }
+  > h2 {
+    margin-top: 2.6rem;
+  }
+}
+
+.article-title {
+  line-height: 1.35;
+  letter-spacing: -0.035em;
+}
+a:focus-visible,
+button:focus-visible {
+  outline: 2px solid var(--secondary);
+  outline-offset: 4px;
+}
+
+body[data-slug="index"],
+body[data-slug="about"],
+body[data-slug$="/index"] {
+  .content-meta,
+  .page-header .tag-list {
+    display: none;
+  }
+}
+
+body[data-slug="index"] {
+  .sidebar.right {
+    display: none;
+  }
+  @media all and ($desktop) {
+    .page > #quartz-body {
+      grid-template-columns: 260px minmax(0, 900px);
+      grid-template-areas: "grid-sidebar-left grid-header" "grid-sidebar-left grid-center" "grid-sidebar-left grid-footer";
+    }
+  }
+  .article-title {
+    font-size: 2rem;
+  }
+  .post-summary {
+    padding: 0.3rem 0 1rem;
+    h3 {
+      font-size: 1.25rem;
+      line-height: 1.5;
+    }
+    a.internal {
+      background: transparent;
+      padding: 0;
+    }
+    .post-date {
+      color: var(--gray);
+      font-size: 0.85rem;
+    }
+  }
+}
+
+@media all and ($mobile) {
+  .page > #quartz-body {
+    .sidebar.left {
+      padding-top: 1.2rem;
+    }
+    .page-header {
+      margin-top: 1.5rem;
+    }
+  }
+  .article-title {
+    font-size: 1.7rem;
+  }
+}
+
+.page-title {
+  font-size: 1.4rem;
+}
